@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Member From Class: ClassName=Gas_Sensor_Schematic Member=R11
+Change Component Designator: OldDesignator=flash NewDesignator=flash1
+Change Component Designator: OldDesignator=LED NewDesignator=LED1
+Change Component Designator: OldDesignator=LED NewDesignator=LED2
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=Reset NewDesignator=Reset1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component LED2 LED
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component R7 10K

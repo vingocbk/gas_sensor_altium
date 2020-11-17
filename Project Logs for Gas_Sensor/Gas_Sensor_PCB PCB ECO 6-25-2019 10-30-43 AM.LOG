@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=12V Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=NetLED2_2 Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Change Component Comment : Designator=R9 Old Comment=4K7 New Comment=10K
+Added Component: Designator=JDC1(DC0)
+Added Component: Designator=LS1(SPEAKER)
+Added Component: Designator=Q1(QTO-92)
+Added Component: Designator=R10(RES-SMD-0805)
+Added Component: Designator=R11(RES-SMD-0805)
+Added Pin To Net: NetName=12V Pin=JDC1-1
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=5V Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=LOA Pin=R9-2
+Added Pin To Net: NetName=LOA Pin=R10-1
+Added Pin To Net: NetName=LOA Pin=U1-7
+Added Net: Name=LOA
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=Q1-1
+Added Net: Name=NetLS1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R9-1
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component JDC1 Jac DC
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component LS1 Speaker
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component Q1 C1815
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component R10 10K
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component R11 4K7

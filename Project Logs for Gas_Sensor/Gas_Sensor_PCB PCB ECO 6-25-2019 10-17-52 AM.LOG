@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=J1-1
+Removed Pin From Net: NetName=5V Pin=J1-2
+Removed Pin From Net: NetName=5V Pin=J1-3
+Removed Pin From Net: NetName=ADC Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=ADC Pin=J1-6
+Removed Member From Class: ClassName=Gas_Sensor_Schematic Member=J3
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Added Pin To Net: NetName=5V Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Pin To Net: NetName=ADC Pin=IC1-4
+Added Pin To Net: NetName=5V Pin=IC1-5
+Added Pin To Net: NetName=ADC Pin=IC1-6

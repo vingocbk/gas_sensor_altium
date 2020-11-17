@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetLED2_2 Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Change Component Comment : Designator=R8 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R11 Old Comment=10K New Comment=4K7
+Change Component Designator: OldDesignator=flash NewDesignator=flash1
+Added Component: Designator=IC2(DS18S20)
+Added Component: Designator=R12(RES-SMD-0805)
+Added Component: Designator=SW1(SW1-SMD)
+Added Pin To Net: NetName=3.3V Pin=IC2-3
+Added Pin To Net: NetName=DQ Pin=IC2-4
+Added Pin To Net: NetName=GND Pin=IC2-5
+Added Pin To Net: NetName=3.3V Pin=R11-1
+Added Pin To Net: NetName=DQ Pin=R11-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=3.3V Pin=SW1-2
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component IC2 DS18S20
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component R12 10K
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component SW1 SW

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=12V Pin=1-1
+Removed Pin From Net: NetName=GND Pin=1-2
+Removed Member From Class: ClassName=Gas_Sensor_Schematic Member=1
+Added Component: Designator=J?(62000211722)
+Added Pin To Net: NetName=12V Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component J? 62000211722

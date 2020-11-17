@@ -1,0 +1,3 @@
+Added Component: Designator=R11(RES-SMD-0805)
+Added Pin To Net: NetName=NetLED2_2 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2

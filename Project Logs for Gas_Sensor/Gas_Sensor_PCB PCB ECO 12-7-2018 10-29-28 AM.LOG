@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=DIO NewDesignator=DIO1
+Change Component Designator: OldDesignator=flash NewDesignator=flash1
+Change Component Designator: OldDesignator=LED NewDesignator=LED1
+Change Component Designator: OldDesignator=LED NewDesignator=LED2
+Change Component Designator: OldDesignator=Reset NewDesignator=Reset1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Member To Class: ClassName=Gas_Sensor_Schematic Member=Component LED1 LED
